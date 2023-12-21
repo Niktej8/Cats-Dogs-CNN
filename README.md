@@ -6,12 +6,15 @@ This repository contains code for a Convolutional Neural Network (CNN) designed 
 
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
+- [Dataset](#dataset)
 - [Usage](#usage)
 - [Data Augmentation](#data-augmentation)
 - [Model Architecture](#model-architecture)
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Predictions](#predictions)
+
+
 
 ## Introduction
 
@@ -28,6 +31,14 @@ To run this code, you'll need the following dependencies:
 - ...
 
 Make sure to install the required dependencies before running the code.
+
+## Dataset
+
+You can download the dataset for the Cats and Dogs Classifier from the following link:
+
+[Download Dataset](https://cats-and-dogs-classifier.s3.ap-south-1.amazonaws.com/dataset.zip)
+
+Make sure to unzip the downloaded file before using it for training or testing.
 
 ## Usage
 
