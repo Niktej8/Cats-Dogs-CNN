@@ -83,4 +83,4 @@ The model is trained on separate datasets for cats and dogs. Adjust hyperparamet
 You can make predictions on new images using the trained model by changing their path
 
 ```bash
-CNN.py
+cat_and_dog_classifier.ipynb
